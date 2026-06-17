@@ -1,0 +1,22 @@
+{
+  "name": "WorldWire",
+  "short_name": "WorldWire",
+  "description": "Real-time world news aggregator",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1006/1006771.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1006/1006771.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
